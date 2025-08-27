@@ -1,5 +1,5 @@
 # Aula3SO.1
-EXERCÍCIO 1
+## EXERCÍCIO 1
 
 Criar em Eclipse, um novo Java Project com uma classe chamada RedesController.java no package controller e uma classe Main.java no package view.
 
