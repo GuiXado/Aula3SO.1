@@ -25,7 +25,6 @@ Dicas:
 3) Processo de chamada de configuração de IP:
 Windows: IPCONFIG
 Linux: ifconfig ou ip addr
-
-5) Processo de chamada de PING com 10 iterações, em IPv4 para www.google.com.br
+4) Processo de chamada de PING com 10 iterações, em IPv4 para www.google.com.br
 Windows: ping -4 -n 10 www.google.com.br
 Linux: ping -4 -c 10 www.google.com.br
